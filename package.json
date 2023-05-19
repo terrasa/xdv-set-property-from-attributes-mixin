@@ -1,0 +1,17 @@
+{
+  "name": "@xdv/xdv-set-property-from-attributes-mixin",
+  "version": "1.0.0",
+  "description": "Mixin to convert a string to kebabCase.",
+  "keywords": [
+    "mixin",
+    "kebabCase",
+    "web components"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "terrasa.luis@gmail.com",
+  "license": "MIT"
+}
